@@ -4,6 +4,20 @@
 
 ---
 
+## 🌐 Meu site
+
+[![Site pessoal](https://img.shields.io/badge/Site-hiagosb.github.io-2dd4bf?style=for-the-badge&logo=githubpages&logoColor=white)](https://hiagosb.github.io)
+
+Reuni no meu site os projetos que já desenvolvi: **Fórmula SAE na Apuama Racing**, **desenvolvimento de
+produto, qualidade, logística e gestão estratégica** na Engenharia de Produção da UnB, e
+**machine learning** na pós em Ciência de Dados.
+
+<a href="https://hiagosb.github.io">
+  <img src="assets/site-preview.jpg" alt="Prévia do site pessoal de Hiago Santos Breda" width="700">
+</a>
+
+---
+
 ## 🧭 Sobre mim
 
 Estou no primeiro semestre de **Engenharia de Software**, aprofundando meus conhecimentos em
@@ -44,3 +58,4 @@ sólida para construir soluções tecnológicas completas, robustas e bem fundam
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hiagosantosbd-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiagosantosbd)
+[![Site](https://img.shields.io/badge/Site-hiagosb.github.io-2dd4bf?style=flat&logo=githubpages&logoColor=white)](https://hiagosb.github.io)
