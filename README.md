@@ -4,6 +4,17 @@
 
 ---
 
+## 🧭 Sobre mim
+
+Estou no primeiro semestre de **Engenharia de Software**, aprofundando meus conhecimentos em
+programação a partir de uma base já construída em **Python**. Em paralelo, estou concluindo a
+graduação em **Engenharia de Produção** e uma pós-graduação em **Ciência de Dados**.
+
+Há cerca de um ano estou no meu primeiro emprego na área de TI, onde atuo com **ciência de dados,
+processos e suporte ao usuário**. Ao longo da minha trajetória, desenvolvi projetos de dados e de
+gestão aplicados a problemas práticos, e hoje busco unir essa experiência a uma visão técnica mais
+sólida para construir soluções tecnológicas completas, robustas e bem fundamentadas.
+
 ## 🌐 Meu site
 
 [![Site pessoal](https://img.shields.io/badge/Site-hiagosb.github.io-2dd4bf?style=for-the-badge&logo=githubpages&logoColor=white)](https://hiagosb.github.io)
@@ -15,19 +26,6 @@ produto, qualidade, logística e gestão estratégica** na Engenharia de Produç
 <a href="https://hiagosb.github.io">
   <img src="assets/site-preview.jpg" alt="Prévia do site pessoal de Hiago Santos Breda" width="700">
 </a>
-
----
-
-## 🧭 Sobre mim
-
-Estou no primeiro semestre de **Engenharia de Software**, aprofundando meus conhecimentos em
-programação a partir de uma base já construída em **Python**. Em paralelo, estou concluindo a
-graduação em **Engenharia de Produção** e uma pós-graduação em **Ciência de Dados**.
-
-Há cerca de um ano estou no meu primeiro emprego na área de TI, onde atuo com **ciência de dados,
-processos e suporte ao usuário**. Ao longo da minha trajetória, desenvolvi projetos de dados e de
-gestão aplicados a problemas práticos, e hoje busco unir essa experiência a uma visão técnica mais
-sólida para construir soluções tecnológicas completas, robustas e bem fundamentadas.
 
 ## 🎯 Interesses
 
